@@ -1,0 +1,8 @@
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\obj\Debug\Oefening02.csproj.AssemblyReference.cache
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\obj\Debug\Oefening02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\obj\Debug\Oefening02.csproj.CoreCompileInputs.cache
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\bin\Debug\Oefening02.exe.config
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\bin\Debug\Oefening02.exe
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\bin\Debug\Oefening02.pdb
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\obj\Debug\Oefening02.exe
+C:\Users\Tibovc\Desktop\LO\s3\VDS1\oefeningen\6BI\oefeningen_6BI\Oefening02\Oefening02\obj\Debug\Oefening02.pdb
